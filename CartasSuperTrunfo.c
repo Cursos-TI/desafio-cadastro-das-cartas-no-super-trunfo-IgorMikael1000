@@ -14,11 +14,11 @@ int main () {
     printf("\nAgora vamos a primeira carta!\n\n");
 
     printf("Digite o nome do estado:\n");
-    scanf("%s", &estado1);
+    scanf("%s", estado1);
     printf("Digite o código da carta:\n");
-    scanf("%s", &codigo1);
+    scanf("%s", codigo1);
     printf("Digite o nome da cidade: \n");
-    scanf("%s", &cidade1);
+    scanf("%s", cidade1);
     printf("Digite a população da cidade: \n");
     scanf("%d", &populacao1);
     printf("Digite a área da cidade em km²: \n");
@@ -45,11 +45,11 @@ int main () {
     printf("\nAgora vamos cadastrar a carta 2!\n\n");
    
     printf("Digite o nome do estado:\n");
-    scanf("%s", &estado2);
+    scanf("%s", estado2);
     printf("Digite o código da carta:\n");
-    scanf("%s", &codigo2);
+    scanf("%s", codigo2);
     printf("Digite o nome da cidade: \n");
-    scanf("%s", &cidade2);
+    scanf("%s", cidade2);
     printf("Digite a população da cidade: \n");
     scanf("%d", &populacao2);
     printf("Digite a área da cidade em km²: \n");
